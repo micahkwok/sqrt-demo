@@ -8,6 +8,8 @@ Options:
 --n=<n>    Number for which the square root should be calculated
 """
 
+## New comment
+
 from docopt import docopt
 import math
 
